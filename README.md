@@ -56,7 +56,7 @@ A tela inicial da aplicação mobile apresenta os quadrados que representam os d
   
 ## Instalação
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-> ⚠ Antes de executar o frontend e mobile verificar o IP da sua máquina e configurar no arquivo de setup do axios presente na pasta lib dos respectivos projetos
+> ⚠ Verifique o IP da sua máquina antes de executar o frontend e mobile e configure-o no arquivo de configuração do Axios na pasta "lib" dos projetos correspondentes.
 
 ### Rodando o Back End - server
   ```
