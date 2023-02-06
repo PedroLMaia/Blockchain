@@ -66,6 +66,3 @@ A tela inicial da aplicação mobile apresenta os quadrados que representam os d
 <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" align="left" height="640" width="" />  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
