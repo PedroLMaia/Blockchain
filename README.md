@@ -47,28 +47,6 @@ A tela inicial da aplicação mobile apresenta os quadrados que representam os d
 
 |                           Splash Screen                           |                              Home vazia                               |                       Home com progresso                        |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="./.github/screenshots/mobile-splash.png" width="250" /> | <img src="./.github/screenshots/mobile-empty-home.png" width="250" /> | <img src="./.github/screenshots/mobile-home.png" width="250" /> |
-
-
-
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" align="left" height="500" width="" />  
-  
-
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" align="left" height="500" width="" />  
-  
-
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" align="left" height="500" width="" />  
-  
-
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" align="left" height="500" width="" />  
-  
-
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" align="left" height="500" width="" />  
-  
-
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" align="left" height="500" width="" />  
-  
-
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" align="left" height="500" width="" />  
+| <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> |
 
 <br />
