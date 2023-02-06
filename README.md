@@ -36,7 +36,7 @@ Ao acessar a página inicial da aplicação web, o usuário será recebido por u
 <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-partial-completed.png" align="left" style="width: 100%" />  
   
 
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-full-completed.png" align="left" style="width: 100%" margin-bottom:"10px" />  
+<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-partial-completed.png" align="left" style="width: 100%" />  
   
 
 
