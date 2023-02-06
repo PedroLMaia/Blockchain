@@ -36,11 +36,9 @@ Ao acessar a página inicial da aplicação web, o usuário será recebido por u
 <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-partial-completed.png" align="left" style="width: 100%" />  
   
 
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-full-completed.png" align="left" style="width: 100%" />  
+<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-full-completed.png" align="left" style="width: 100%" />
+<div><div/>
   
-
-
-<br>
 ## Habits - Aplicação mobile
 A tela inicial da aplicação mobile apresenta os quadrados que representam os dias passados, presente e futuro, com cores baseadas em seus respectivos progressos. Cinza indica que nenhum hábito foi realizado, cores claras indicam pouco progresso e cores escuras indicam muito progresso. Além disso, dias futuros são representados com cinza e opacidade reduzida e não são clicáveis. O usuário também pode adicionar novos hábitos clicando no botão apropriado na tela.  
   
