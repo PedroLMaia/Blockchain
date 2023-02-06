@@ -53,5 +53,24 @@ A tela inicial da aplicação mobile apresenta os quadrados que representam os d
 - Princípio Aberto/Fechado: As classes da aplicação devem estar abertas para extensão mas fechadas para modificação;
 - Princípio da Substituição de Liskov: Devemos ser capazes de substituir uma classe-pai por uma herança sem que isso afete o funcionamento;
 - Princípio da Responsabilidade Única: Cada classe tem uma única responsabilidade;
+  
+## Instalação
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+> ⚠ Antes de executar o frontend e mobile verificar o IP da sua máquina e configurar no arquivo de setup do axios presente na pasta lib dos respectivos projetos
 
+### Rodando o Back End - server
+  ```
+npm install
+npm run dev
+```
+### Rodando Front End - Web
+```
+npm install
+npm run dev
+```
+### Rodando Mobile
+```
+npm install
+npm run dev
+```
 <br />
