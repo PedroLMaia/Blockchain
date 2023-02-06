@@ -49,5 +49,20 @@ A tela inicial da aplicação mobile apresenta os quadrados que representam os d
 |                           Splash Screen                           |                              Home vazia                               |                       Home com progresso                        |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> |
+  
+  
+## Tecnologias
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [NodeJS](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Fastify](https://www.fastify.io/)
+- [Prisma](https://www.prisma.io/)
+- [ViteJS](https://vitejs.dev/)
+- [ReactJS](https://reactjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
 <br />
