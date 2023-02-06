@@ -46,7 +46,7 @@ A tela inicial da aplicação mobile apresenta os quadrados que representam os d
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> |
 
-##Princípios
+## Princípios
 Princípio da Segregação de Interfaces: As interfaces devem ser segregadas;
 Princípio da Inversão de Dependência: Ao invés de uma classe buscar as dependências de que precisa, o contexto informa a classe das dependências necessárias.
 Princípio Aberto/Fechado: As classes da aplicação devem estar abertas para extensão mas fechadas para modificação;
