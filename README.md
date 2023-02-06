@@ -71,6 +71,6 @@ npm run dev
 ### Rodando Mobile
 ```
 npm install
-npm run dev
+npx expo start
 ```
 <br />
