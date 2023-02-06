@@ -37,6 +37,7 @@ Ao acessar a página inicial da aplicação web, o usuário será recebido por u
   
 
 <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-partial-completed.png" align="left" style="width: 100%" />  
+<div>P<div/>
   
 
 
