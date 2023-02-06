@@ -45,6 +45,12 @@ Ao acessar a página inicial da aplicação web, o usuário será recebido por u
 A tela inicial da aplicação mobile apresenta os quadrados que representam os dias passados, presente e futuro, com cores baseadas em seus respectivos progressos. Cinza indica que nenhum hábito foi realizado, cores claras indicam pouco progresso e cores escuras indicam muito progresso. Além disso, dias futuros são representados com cinza e opacidade reduzida e não são clicáveis. O usuário também pode adicionar novos hábitos clicando no botão apropriado na tela.  
   
 
+|                           Splash Screen                           |                              Home vazia                               |                       Home com progresso                        |
+| :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| <img src="./.github/screenshots/mobile-splash.png" width="250" /> | <img src="./.github/screenshots/mobile-empty-home.png" width="250" /> | <img src="./.github/screenshots/mobile-home.png" width="250" /> |
+
+
+
 <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" align="left" height="500" width="" />  
   
 
