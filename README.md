@@ -36,12 +36,8 @@ Ao acessar a página inicial da aplicação web, o usuário será recebido por u
 <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-partial-completed.png" align="left" style="width: 100%" />  
   
 
-<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-partial-completed.png" align="left" style="width: 100%" />  
-<div> <div/>
+<img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/web-day-full-completed.png" align="left" style="width: 100%"  />
   
-
-
-
 ## Habits - Aplicação mobile
 A tela inicial da aplicação mobile apresenta os quadrados que representam os dias passados, presente e futuro, com cores baseadas em seus respectivos progressos. Cinza indica que nenhum hábito foi realizado, cores claras indicam pouco progresso e cores escuras indicam muito progresso. Além disso, dias futuros são representados com cinza e opacidade reduzida e não são clicáveis. O usuário também pode adicionar novos hábitos clicando no botão apropriado na tela.  
   
@@ -49,20 +45,12 @@ A tela inicial da aplicação mobile apresenta os quadrados que representam os d
 |                           Splash Screen                           |                              Home vazia                               |                       Home com progresso                        |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> |
-  
-  
-## Tecnologias
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- [NodeJS](https://nodejs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Fastify](https://www.fastify.io/)
-- [Prisma](https://www.prisma.io/)
-- [ViteJS](https://vitejs.dev/)
-- [ReactJS](https://reactjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
+##Princípios
+Princípio da Segregação de Interfaces: As interfaces devem ser segregadas;
+Princípio da Inversão de Dependência: Ao invés de uma classe buscar as dependências de que precisa, o contexto informa a classe das dependências necessárias.
+Princípio Aberto/Fechado: As classes da aplicação devem estar abertas para extensão mas fechadas para modificação;
+Princípio da Substituição de Liskov: Devemos ser capazes de substituir uma classe-pai por uma herança sem que isso afete o funcionamento;
+Princípio da Responsabilidade Única: Cada classe tem uma única responsabilidade;
 
 <br />
