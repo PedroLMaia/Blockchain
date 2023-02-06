@@ -46,6 +46,10 @@ A tela inicial da aplicação mobile apresenta os quadrados que representam os d
 |                           Splash Screen                           |                              Home vazia                               |                       Home com progresso                        |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> |
+  
+  |                           Splash Screen                           |                              Home vazia                               |                       Home com progresso                        |
+| :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> | <img src="https://raw.githubusercontent.com/MrRioja/nlw-setup/main/.github/screenshots/mobile-splash.png" width="250" /> |
 
 ## Princípios
 - Princípio da Segregação de Interfaces: As interfaces devem ser segregadas;
